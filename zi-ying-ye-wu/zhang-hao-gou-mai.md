@@ -6,7 +6,7 @@
 
 **会员账号使用期间出现问题，提供售后包换**
 
-
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **清单**
 
