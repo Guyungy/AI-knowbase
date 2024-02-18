@@ -1,10 +1,6 @@
----
-description: AIGC知识库丨一站式人工智能知识库
----
-
 # 首页
 
-## AIGC知识库丨一站式人工智能知识库
+## AI知识库丨全网最强 一站式人工智能知识库
 
 全网曝光超1000万的「AIGC知识库」，永久免费更新  [建议收藏语雀文档地址](https://www.yuque.com/gptcn/gpt) [更新打包Win发行版](https://github.com/Guyungy/AIGC-knowbase/releases/download/2023-07-28/AIGC-win.msi)
 
