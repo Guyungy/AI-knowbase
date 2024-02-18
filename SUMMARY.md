@@ -18,3 +18,11 @@
   * [入门指南](chatgpt/新手入门/simpread-ru-men-zhi-nan.md)
   * [使用相关](chatgpt/新手入门/shi-yong-xiang-guan.md)
   * [ChatGPT变懒解决方法](chatgpt/新手入门/chatgpt-bian-lan-jie-jue-fang-fa.md)
+
+## Stable Diffusion
+
+* [新手入门](stable-diffusion/xin-shou-ru-men.md)
+
+## Midjourney
+
+* [新手入门](midjourney/xin-shou-ru-men.md)
