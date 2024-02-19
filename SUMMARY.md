@@ -25,11 +25,11 @@
 
 * [新手入门](midjourney/xin-shou-ru-men.md)
 
+## Sora
+
+* [Sora 学习手册 持续更新](sora/sora-xue-xi-shou-ce-chi-xu-geng-xin.md)
+
 ## 推荐阅读
 
 * [Midjourney做表情包｜设计麻瓜也能10分钟上架一套表情包](tui-jian-yue-du/midjourney-zuo-biao-qing-bao-she-ji-ma-gua-ye-neng-10-fen-zhong-shang-jia-yi-tao-biao-qing-bao.md)
 * [微软发布Azure ChatGPT：适用企业内使用的私有和安全 ChatGPT](tui-jian-yue-du/wei-ruan-fa-bu-azure-chatgpt-shi-yong-qi-ye-nei-shi-yong-de-si-you-he-an-quan-chatgpt.md)
-
-***
-
-* [Sora 学习手册 持续更新](sora-xue-xi-shou-ce-chi-xu-geng-xin.md)
